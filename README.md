@@ -1,5 +1,5 @@
 # Cameron Armstrong's Personal Blog
-Barebones personal site implementation using [New.CSS](https://newcss.net/usage/)
+No frills personal site implementation using [New.CSS](https://newcss.net/usage/)
 
 Includes:
 - [Personal Bio](https://cameronarmstrong.org/)
